@@ -42,5 +42,3 @@ Before training, you need to process the original data to generate the physical 
 
 If you have any questions or want to use the code, feel free to contact:
 * Qi Yang (qqyy@hnu.edu.cn)
-* Tong Li (tliay@hnu.edu.cn)
-* Zhu Xiao (Zhxiao@hnu.edu.cn)
